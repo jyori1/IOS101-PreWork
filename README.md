@@ -2,15 +2,15 @@
 
 Submitted by: **Jo-Anne Rivera**
 
-**IOS101-PreWork** is an app that... [TODO] 
+**IOS101-PreWork** is an app that allows users to change the background color and text colors of the app to random colors via buttons. 
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] Users are see a screen with three labels and a button
+- [x] Users see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
@@ -30,11 +30,11 @@ GIF created with ...
 
 ## Notes
 
-Navigating the Xcode IDE wasa a challenge due to all the different features. 
+Navigating the Xcode IDE was a challenge due to all the different features. Using Git with Xcode's interface was also a new experience since it took a while to figure out how to commit directly to GitHub, as well as where to create a new branch--nonetheless, it's convenient considering how Git is integrated into the IDE. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Jo-Anne Rivera
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
