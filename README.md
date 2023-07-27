@@ -28,6 +28,30 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+### **Favorite Applications:**
+**Spotify**
+- Have the option to add recommended songs to playlists
+- Liking songs and saving them in a dedicated 'Liked Songs' section
+- Being able to see what your friends are listening to in real-time
+  
+**Instagram**
+- Easily share posts and reels to friends or group chats
+- Recommends people to follow based on mutuals
+- Save posts and reels and categorize them based on custom topics
+
+**Discord**
+- Soundboard used in voice chats/channels that people can add custom audio snippets to
+- Being able to see what your friends are playing
+- Custom emojis in servers
+
+**Notion**
+- Endless customization of boards with templates to kickstart it based on your needs
+- Can integrate third-party apps into boards
+- Can share to other people and collaborate on the same board
+
+### App Idea
+I would like to develop an app that connects consumers in the Philippines to small businesses that may not necessarily be local to their area. Many small businesses in the Philippines specialize in traditional and regional arts, crafts, and cuisine. Features would include being able to filter through businesses based on their region/province, what kind of specialty, proximity, etc. The interfaces will be different based on whether they are a consumer or a small business owner. Small businesses can customize their own page to showcase their goods and communicate with consumers through the platform--and potentially provide shipping options. Consumers can view a map to see if there are any businesses near the area that they would like to support and leave reviews on the respective business' page after their experience.
+
 ## Notes
 
 Navigating the Xcode IDE was a challenge due to all the different features. Using Git with Xcode's interface was also a new experience since it took a while to figure out how to commit directly to GitHub, as well as where to create a new branch--nonetheless, it's convenient considering how Git is integrated into the IDE. 
